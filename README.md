@@ -1,5 +1,5 @@
 Overdue Companies Extractor
-Extracts active companies with overdue accounts in RM postcodes (RM1–RM20, or RM9 only) from the Companies House Public Data API. Hosted on GitHub at github.com/your-repo/overdue-companies-extractor.
+Extracts active companies with overdue accounts in RM postcodes (RM1–RM20, or RM9 only) from the Companies House Public Data API. Hosted on GitHub at github.com/hardeex/overdue-companies-extractor.
 Overview
 This project provides Python scripts to fetch data on active companies with overdue accounts in RM postcodes, filter by company type and location, and save results to CSV files. Ideal for analyzing companies in Romford, Dagenham, and nearby areas.
 Features
@@ -60,7 +60,7 @@ Locations: Romford (RM1–RM7), Dagenham (RM8–RM10), Hornchurch (RM11–RM12),
 
 Setup Instructions
 
-Clone Repository:git clone https://github.com/your-repo/overdue-companies-extractor.git
+Clone Repository:git clone https://github.com/hardeex/overdue-companies-extractor.git
 cd overdue-companies-extractor
 
 
