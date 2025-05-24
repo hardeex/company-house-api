@@ -64,29 +64,33 @@ def fetch_companies(location, cursor=None, retries=0):
         return None
 
 def check_overdue_accounts(company_number):
-    """Check if a company has overdue accounts."""
+    """Check if a company has overdue accounts and valid status."""
     company_url = f"{BASE_URL}/company/{company_number}"
     try:
         response = requests.get(company_url, auth=HTTPBasicAuth(API_KEY, ""))
         response.raise_for_status()
         company_data = response.json()
+        detailed_status = company_data.get("company_status_detail", "")
+        if detailed_status == "active-proposal-to-strike-off":
+            logging.debug(f"Skipping {company_number}: Status is active-proposal-to-strike-off")
+            return False, None
         if company_data.get("company_status") != "active":
             logging.debug(f"Skipping {company_number}: Not active ({company_data.get('company_status')})")
-            return False
+            return False, None
         accounts = company_data.get("accounts", {})
         next_due = accounts.get("next_due")
         if next_due:
             due_date = datetime.strptime(next_due, "%Y-%m-%d")
             if due_date < datetime.now():
                 logging.info(f"Overdue accounts detected for {company_number}: next_due={next_due}")
-                return True
+                return True, next_due
             else:
                 logging.debug(f"No overdue accounts for {company_number}: next_due={next_due}")
         else:
             logging.debug(f"No next_due date for {company_number}")
     except requests.exceptions.RequestException as e:
         logging.error(f"Failed to fetch company details for {company_number}: {e}")
-        return False
+        return False, None
 
     # Fallback: Check filing history
     url = f"{BASE_URL}{FILING_ENDPOINT.format(company_number)}"
@@ -97,12 +101,12 @@ def check_overdue_accounts(company_number):
         for filing in filings:
             if filing.get("category") == "accounts" and filing.get("description", "").lower().find("late") > -1:
                 logging.info(f"Overdue accounts detected in filing history for {company_number}")
-                return True
+                return True, next_due
         logging.debug(f"No late filings in history for {company_number}")
-        return False
+        return False, None
     except requests.exceptions.RequestException as e:
         logging.error(f"Failed to fetch filing history for {company_number}: {e}")
-        return False
+        return False, None
 
 def extract_and_filter_data(companies, include_all_types=False):
     """Extract relevant fields and filter by RM postcodes, overdue accounts, and company type."""
@@ -123,7 +127,8 @@ def extract_and_filter_data(companies, include_all_types=False):
             continue
 
         company_number = company.get("company_number", "")
-        if not check_overdue_accounts(company_number):
+        has_overdue, next_due = check_overdue_accounts(company_number)
+        if not has_overdue:
             continue
 
         filtered.append(
@@ -135,24 +140,28 @@ def extract_and_filter_data(companies, include_all_types=False):
                 "postcode": postcode,
                 "sic_codes": ", ".join(company.get("sic_codes", [])) or "N/A",
                 "company_type": company.get("company_type", "N/A"),
+                "next_due": next_due or "N/A",
             }
         )
     logging.info(f"Filtered {len(filtered)} companies with RM postcodes, overdue accounts, and {'ltd' if not include_all_types else 'all'} type")
     return filtered
 
-def save_to_csv(data, filename="overdue_companies_all_limited_rm.csv"):
+def save_to_csv(data, filename="overdue_companies_rm_filtered.csv"):
     """Save extracted data to CSV."""
     if not data:
         logging.warning("No data to save.")
         return
     df = pd.DataFrame(data)
+    df = df.drop_duplicates(subset="company_number")  # Deduplicate
+    postcodes = df["postcode"].str.extract(r"^(RM\d+)").dropna()[0].unique()
+    logging.info(f"Found RM postcodes: {', '.join(postcodes)}")
     df.to_csv(filename, index=False)
-    logging.info(f"Saved {len(data)} companies to {filename}")
+    logging.info(f"Saved {len(df)} companies to {filename}")
 
 def main():
     """Main function to fetch and process all RM postcode companies."""
     all_data = []
-    include_all_types = False  # Set to True if Tobi confirms all company types
+    include_all_types = False  # Limited to ltd
 
     for location in LOCATIONS:
         logging.info(f"Processing location: {location}")

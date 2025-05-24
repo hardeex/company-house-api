@@ -137,22 +137,25 @@ def extract_and_filter_data(companies, include_all_types=False):
                 "company_type": company.get("company_type", "N/A"),
             }
         )
-    logging.info(f"Filtered {len(filtered)} companies with RM postcodes, overdue accounts, and {'ltd' if not include_all_types else 'all'} type")
+    logging.info(f"Filtered {len(filtered)} companies with RM postcodes, overdue accounts, and {'all' if include_all_types else 'ltd'} type")
     return filtered
 
-def save_to_csv(data, filename="overdue_companies_all_limited_rm.csv"):
+def save_to_csv(data, filename="overdue_companies_rm_all_types.csv"):
     """Save extracted data to CSV."""
     if not data:
         logging.warning("No data to save.")
         return
     df = pd.DataFrame(data)
+    df = df.drop_duplicates(subset="company_number")  # Deduplicate
+    postcodes = df["postcode"].str.extract(r"^(RM\d+)").dropna()[0].unique()
+    logging.info(f"Found RM postcodes: {', '.join(postcodes)}")
     df.to_csv(filename, index=False)
-    logging.info(f"Saved {len(data)} companies to {filename}")
+    logging.info(f"Saved {len(df)} companies to {filename}")
 
 def main():
     """Main function to fetch and process all RM postcode companies."""
     all_data = []
-    include_all_types = False  # Set to True if Tobi confirms all company types
+    include_all_types = True  # Include all company types
 
     for location in LOCATIONS:
         logging.info(f"Processing location: {location}")

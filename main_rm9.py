@@ -22,11 +22,8 @@ BASE_URL = "https://api.company-information.service.gov.uk"
 SEARCH_ENDPOINT = "/advanced-search/companies"
 FILING_ENDPOINT = "/company/{}/filing-history"
 MAX_RETRIES = 5
-RM_POSTCODES = [f"RM{i}" for i in range(1, 21)]  # RM1–RM20
-LOCATIONS = [
-    "Romford", "Dagenham", "Hornchurch", "Upminster", "South Ockendon",
-    "Grays", "Tilbury", "Purfleet", "West Thurrock"
-]
+RM_POSTCODES = ["RM9"]  # Only RM9
+LOCATIONS = ["Dagenham"]  # RM9 is in Dagenham
 
 def fetch_companies(location, cursor=None, retries=0):
     """Fetch companies for a given location from Companies House API."""
@@ -140,19 +137,22 @@ def extract_and_filter_data(companies, include_all_types=False):
     logging.info(f"Filtered {len(filtered)} companies with RM postcodes, overdue accounts, and {'ltd' if not include_all_types else 'all'} type")
     return filtered
 
-def save_to_csv(data, filename="overdue_companies_all_limited_rm.csv"):
+def save_to_csv(data, filename="overdue_companies_rm9.csv"):
     """Save extracted data to CSV."""
     if not data:
         logging.warning("No data to save.")
         return
     df = pd.DataFrame(data)
+    df = df.drop_duplicates(subset="company_number")  # Deduplicate
+    postcodes = df["postcode"].str.extract(r"^(RM\d+)").dropna()[0].unique()
+    logging.info(f"Found RM postcodes: {', '.join(postcodes)}")
     df.to_csv(filename, index=False)
-    logging.info(f"Saved {len(data)} companies to {filename}")
+    logging.info(f"Saved {len(df)} companies to {filename}")
 
 def main():
-    """Main function to fetch and process all RM postcode companies."""
+    """Main function to fetch and process RM9 postcode companies."""
     all_data = []
-    include_all_types = False  # Set to True if Tobi confirms all company types
+    include_all_types = False  # Limited to ltd
 
     for location in LOCATIONS:
         logging.info(f"Processing location: {location}")
