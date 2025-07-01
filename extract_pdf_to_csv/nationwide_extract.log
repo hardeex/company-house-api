@@ -1,0 +1,27 @@
+2025-05-31 18:31:34,128 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 18:31:34,128 - INFO - Skipping file: Bunmite 1 redacted.pdf
+2025-05-31 18:31:34,128 - INFO - Skipping file: Bunmite 2 redacted.pdf
+2025-05-31 18:31:34,128 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 18:31:34,129 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:34,129 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:34,130 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:34,130 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:36,018 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:36,018 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:36,018 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:36,018 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:36,019 - INFO - Extracted 17 transactions from Nationwide redacted 1.pdf
+2025-05-31 18:31:36,019 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 18:31:36,019 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:36,020 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:36,020 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:36,020 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:37,805 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:37,805 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:37,805 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:37,805 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:31:37,805 - INFO - Extracted 17 transactions from Nationwide redacted 2.pdf
+2025-05-31 18:31:37,805 - INFO - Skipping file: TSB Redacted 2.pdf
+2025-05-31 18:31:37,805 - INFO - Skipping file: TSB_April_2025.pdf
+2025-05-31 18:31:37,806 - INFO - Skipping file: barclays redacted.pdf
+2025-05-31 18:31:37,907 - INFO - Saved 34 transactions to output/nationwide_statements_2025-05-31.xlsx

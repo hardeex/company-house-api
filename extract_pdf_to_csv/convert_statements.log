@@ -1,0 +1,1600 @@
+2025-05-29 04:52:36,093 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-29 04:52:36,093 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-29 04:52:36,093 - INFO - Detected bank: Nationwide for Nationwide redacted 2.pdf
+2025-05-29 04:52:36,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:36,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:36,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:36,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:37,969 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:37,969 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:37,969 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:37,969 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:37,969 - ERROR - Failed to extract tables from bank_statements/Nationwide redacted 2.pdf: list index out of range
+2025-05-29 04:52:37,970 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-29 04:52:37,970 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-29 04:52:37,970 - INFO - Detected bank: Virgin Money for Bunmite 1 redacted.pdf
+2025-05-29 04:52:37,971 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:37,971 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:37,971 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:37,972 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:40,584 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:40,585 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:40,585 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:40,585 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:40,585 - ERROR - Failed to extract tables from bank_statements/Bunmite 1 redacted.pdf: list index out of range
+2025-05-29 04:52:40,585 - WARNING - No transactions found in Bunmite 1 redacted.pdf.
+2025-05-29 04:52:40,585 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-29 04:52:40,585 - INFO - Detected bank: Nationwide for Nationwide redacted 1.pdf
+2025-05-29 04:52:40,586 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:40,587 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:40,587 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:40,587 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:42,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:42,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:42,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:42,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:42,387 - ERROR - Failed to extract tables from bank_statements/Nationwide redacted 1.pdf: list index out of range
+2025-05-29 04:52:42,388 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-29 04:52:42,388 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-29 04:52:42,388 - INFO - Detected bank: Virgin Money for Bunmite 2 redacted.pdf
+2025-05-29 04:52:42,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:42,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:42,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:42,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,164 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,164 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,164 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,165 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,165 - ERROR - Failed to extract tables from bank_statements/Bunmite 2 redacted.pdf: list index out of range
+2025-05-29 04:52:45,165 - WARNING - No transactions found in Bunmite 2 redacted.pdf.
+2025-05-29 04:52:45,165 - INFO - Processing TSB_April_2025.pdf
+2025-05-29 04:52:45,165 - INFO - Detected bank: TSB for TSB_April_2025.pdf
+2025-05-29 04:52:45,167 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,167 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,167 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,169 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,169 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:45,170 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,475 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,476 - ERROR - Failed to extract tables from bank_statements/TSB_April_2025.pdf: list index out of range
+2025-05-29 04:52:49,476 - WARNING - No transactions found in TSB_April_2025.pdf.
+2025-05-29 04:52:49,476 - INFO - Processing TSB Redacted 2.pdf
+2025-05-29 04:52:49,476 - INFO - Detected bank: TSB for TSB Redacted 2.pdf
+2025-05-29 04:52:49,477 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,477 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,477 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,478 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,478 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:49,478 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,055 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,055 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,055 - ERROR - Failed to extract tables from bank_statements/TSB Redacted 2.pdf: list index out of range
+2025-05-29 04:52:52,055 - WARNING - No transactions found in TSB Redacted 2.pdf.
+2025-05-29 04:52:52,055 - INFO - Processing barclays redacted.pdf
+2025-05-29 04:52:52,055 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-29 04:52:52,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:52,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,045 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:52:54,047 - INFO - Extracted 0 transactions from barclays redacted.pdf
+2025-05-29 04:52:54,047 - WARNING - No transactions to save.
+2025-05-29 04:55:23,794 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-29 04:55:23,794 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-29 04:55:23,794 - INFO - Detected bank: Virgin Money for Bunmite 1 redacted.pdf
+2025-05-29 04:55:23,796 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:23,796 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:23,797 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:23,797 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:30,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:30,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:30,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:30,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:30,935 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-29 04:55:30,935 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-29 04:55:30,935 - INFO - Detected bank: Virgin Money for Bunmite 2 redacted.pdf
+2025-05-29 04:55:30,937 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:30,938 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:30,938 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:30,939 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:38,666 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:38,666 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:38,667 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:38,667 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:38,667 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-29 04:55:38,667 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-29 04:55:38,667 - INFO - Detected bank: Nationwide for Nationwide redacted 1.pdf
+2025-05-29 04:55:38,668 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:38,668 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:38,669 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:38,669 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:41,093 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:41,093 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:41,093 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:41,094 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:41,094 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-29 04:55:41,094 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-29 04:55:41,094 - INFO - Detected bank: Nationwide for Nationwide redacted 2.pdf
+2025-05-29 04:55:41,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:41,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:41,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:41,097 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,422 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,422 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,422 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,422 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,423 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-29 04:55:43,423 - INFO - Processing TSB Redacted 2.pdf
+2025-05-29 04:55:43,423 - INFO - Detected bank: TSB for TSB Redacted 2.pdf
+2025-05-29 04:55:43,424 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,424 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,425 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,425 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,425 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:43,426 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,336 - WARNING - No transactions found in TSB Redacted 2.pdf.
+2025-05-29 04:55:51,336 - INFO - Processing TSB_April_2025.pdf
+2025-05-29 04:55:51,336 - INFO - Detected bank: TSB for TSB_April_2025.pdf
+2025-05-29 04:55:51,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:55:51,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,624 - WARNING - No transactions found in TSB_April_2025.pdf.
+2025-05-29 04:56:03,624 - INFO - Processing barclays redacted.pdf
+2025-05-29 04:56:03,624 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-29 04:56:03,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,626 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,626 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,626 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,627 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,627 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:03,627 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,935 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,936 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,936 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,937 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,937 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,938 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,938 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,939 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:56:05,940 - INFO - Extracted 0 transactions from barclays redacted.pdf
+2025-05-29 04:56:05,941 - WARNING - No transactions to save.
+2025-05-29 04:58:21,794 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-29 04:58:21,794 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-29 04:58:21,794 - INFO - Detected bank: Virgin Money for Bunmite 1 redacted.pdf
+2025-05-29 04:58:21,795 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,796 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,796 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,796 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,877 - ERROR - Failed to extract tables from bank_statements/Bunmite 1 redacted.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-29 04:58:21,877 - WARNING - No transactions found in Bunmite 1 redacted.pdf.
+2025-05-29 04:58:21,877 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-29 04:58:21,877 - INFO - Detected bank: Virgin Money for Bunmite 2 redacted.pdf
+2025-05-29 04:58:21,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,879 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,879 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,955 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,955 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,955 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,955 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,955 - ERROR - Failed to extract tables from bank_statements/Bunmite 2 redacted.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-29 04:58:21,955 - WARNING - No transactions found in Bunmite 2 redacted.pdf.
+2025-05-29 04:58:21,955 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-29 04:58:21,955 - INFO - Detected bank: Nationwide for Nationwide redacted 1.pdf
+2025-05-29 04:58:21,956 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,957 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,957 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:21,957 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,113 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,113 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,113 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,114 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,114 - ERROR - Failed to extract tables from bank_statements/Nationwide redacted 1.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-29 04:58:22,114 - WARNING - No transactions found in Nationwide redacted 1.pdf.
+2025-05-29 04:58:22,114 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-29 04:58:22,114 - INFO - Detected bank: Nationwide for Nationwide redacted 2.pdf
+2025-05-29 04:58:22,115 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,115 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,116 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,116 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,281 - ERROR - Failed to extract tables from bank_statements/Nationwide redacted 2.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-29 04:58:22,281 - WARNING - No transactions found in Nationwide redacted 2.pdf.
+2025-05-29 04:58:22,281 - INFO - Processing TSB Redacted 2.pdf
+2025-05-29 04:58:22,281 - INFO - Detected bank: TSB for TSB Redacted 2.pdf
+2025-05-29 04:58:22,282 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,283 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,283 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,283 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,388 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,388 - ERROR - Failed to extract tables from bank_statements/TSB Redacted 2.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-29 04:58:22,388 - WARNING - No transactions found in TSB Redacted 2.pdf.
+2025-05-29 04:58:22,388 - INFO - Processing TSB_April_2025.pdf
+2025-05-29 04:58:22,388 - INFO - Detected bank: TSB for TSB_April_2025.pdf
+2025-05-29 04:58:22,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,391 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,392 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,510 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,510 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,511 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,511 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,511 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,511 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,511 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,511 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,511 - ERROR - Failed to extract tables from bank_statements/TSB_April_2025.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-29 04:58:22,511 - WARNING - No transactions found in TSB_April_2025.pdf.
+2025-05-29 04:58:22,511 - INFO - Processing barclays redacted.pdf
+2025-05-29 04:58:22,511 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-29 04:58:22,513 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,513 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,513 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,514 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,514 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,514 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,514 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,515 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,515 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,615 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-29 04:58:22,615 - ERROR - Failed to extract tables from bank_statements/barclays redacted.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-29 04:58:22,615 - WARNING - No transactions found in barclays redacted.pdf.
+2025-05-29 04:58:22,615 - WARNING - No transactions to save.
+2025-05-30 16:11:01,511 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-30 16:11:01,511 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-30 16:11:01,512 - INFO - Detected bank: Virgin Money for Bunmite 1 redacted.pdf
+2025-05-30 16:11:01,513 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,514 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,514 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,514 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,585 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,585 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,585 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,586 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,586 - ERROR - Failed to extract tables from bank_statements/Bunmite 1 redacted.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-30 16:11:01,586 - WARNING - No transactions found in Bunmite 1 redacted.pdf.
+2025-05-30 16:11:01,586 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-30 16:11:01,586 - INFO - Detected bank: Virgin Money for Bunmite 2 redacted.pdf
+2025-05-30 16:11:01,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,672 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,673 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,673 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,673 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,673 - ERROR - Failed to extract tables from bank_statements/Bunmite 2 redacted.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-30 16:11:01,673 - WARNING - No transactions found in Bunmite 2 redacted.pdf.
+2025-05-30 16:11:01,673 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-30 16:11:01,673 - INFO - Detected bank: Nationwide for Nationwide redacted 1.pdf
+2025-05-30 16:11:01,674 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,675 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,675 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,676 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,823 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,824 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,824 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,824 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,824 - ERROR - Failed to extract tables from bank_statements/Nationwide redacted 1.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-30 16:11:01,824 - WARNING - No transactions found in Nationwide redacted 1.pdf.
+2025-05-30 16:11:01,824 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-30 16:11:01,824 - INFO - Detected bank: Nationwide for Nationwide redacted 2.pdf
+2025-05-30 16:11:01,826 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,826 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,826 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,982 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,982 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,982 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,982 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,982 - ERROR - Failed to extract tables from bank_statements/Nationwide redacted 2.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-30 16:11:01,982 - WARNING - No transactions found in Nationwide redacted 2.pdf.
+2025-05-30 16:11:01,983 - INFO - Processing TSB Redacted 2.pdf
+2025-05-30 16:11:01,983 - INFO - Detected bank: TSB for TSB Redacted 2.pdf
+2025-05-30 16:11:01,992 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,992 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:01,992 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,008 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,008 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,009 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,095 - ERROR - Failed to extract tables from bank_statements/TSB Redacted 2.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-30 16:11:02,095 - WARNING - No transactions found in TSB Redacted 2.pdf.
+2025-05-30 16:11:02,095 - INFO - Processing TSB_April_2025.pdf
+2025-05-30 16:11:02,096 - INFO - Detected bank: TSB for TSB_April_2025.pdf
+2025-05-30 16:11:02,097 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,099 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,099 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,100 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,101 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,242 - ERROR - Failed to extract tables from bank_statements/TSB_April_2025.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-30 16:11:02,242 - WARNING - No transactions found in TSB_April_2025.pdf.
+2025-05-30 16:11:02,242 - INFO - Processing barclays redacted.pdf
+2025-05-30 16:11:02,242 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-30 16:11:02,244 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,244 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,244 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,245 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,245 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,245 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,245 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,246 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,246 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-30 16:11:02,331 - ERROR - Failed to extract tables from bank_statements/barclays redacted.pdf: Page.extract_tables() got an unexpected keyword argument 'settings'
+2025-05-30 16:11:02,331 - WARNING - No transactions found in barclays redacted.pdf.
+2025-05-30 16:11:02,331 - WARNING - No transactions to save.
+2025-05-31 10:10:36,335 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 10:10:36,337 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 10:10:36,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,452 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,453 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,453 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,453 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,453 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-05-31 10:10:36,453 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:10:36,453 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-31 10:10:36,453 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 10:10:36,456 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,456 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,457 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,457 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,550 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,550 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,550 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,550 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,550 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-05-31 10:10:36,550 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:10:36,550 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-31 10:10:36,550 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 10:10:36,552 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,553 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,553 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,554 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,735 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,736 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,736 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,736 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,736 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-05-31 10:10:36,736 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:10:36,736 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-31 10:10:36,736 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 10:10:36,739 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,739 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,740 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,741 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,928 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,928 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,928 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,929 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,929 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-05-31 10:10:36,929 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:10:36,929 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-31 10:10:36,929 - INFO - Processing TSB Redacted 2.pdf
+2025-05-31 10:10:36,931 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,931 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,931 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,932 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,932 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:36,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,053 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,053 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,053 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,053 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,053 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,053 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,054 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-05-31 10:10:37,054 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:10:37,054 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-05-31 10:10:37,054 - INFO - Processing TSB_April_2025.pdf
+2025-05-31 10:10:37,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,059 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,060 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,061 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,191 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,191 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,191 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,191 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,191 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,191 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,191 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,191 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,192 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-05-31 10:10:37,192 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:10:37,192 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-05-31 10:10:37,192 - INFO - Processing barclays redacted.pdf
+2025-05-31 10:10:37,192 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-31 10:10:37,194 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,195 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,195 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,196 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,196 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,196 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,196 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,197 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:37,197 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,042 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,042 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,043 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,043 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,043 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,043 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,043 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,043 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,043 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:10:38,045 - INFO - Extracted 58 transactions from barclays redacted.pdf
+2025-05-31 10:10:38,234 - INFO - Saved 26 transactions to output/consolidated_statements_2025-05-31.xlsx
+2025-05-31 10:22:41,755 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 10:22:41,756 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 10:22:41,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,760 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,761 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,761 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,869 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,869 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,869 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,869 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,869 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-05-31 10:22:41,869 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:22:41,869 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-31 10:22:41,869 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 10:22:41,871 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,871 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,871 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,872 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,948 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,948 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,948 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,948 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,948 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-05-31 10:22:41,948 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:22:41,948 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-31 10:22:41,948 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 10:22:41,950 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,951 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,951 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:41,952 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,106 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,107 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,107 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,107 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,107 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-05-31 10:22:42,107 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:22:42,107 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-31 10:22:42,107 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 10:22:42,114 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,114 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,115 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,116 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,280 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,281 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-05-31 10:22:42,281 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:22:42,281 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-31 10:22:42,281 - INFO - Processing TSB Redacted 2.pdf
+2025-05-31 10:22:42,287 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,288 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,288 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,288 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,289 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,289 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,394 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,394 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-05-31 10:22:42,394 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:22:42,394 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-05-31 10:22:42,394 - INFO - Processing TSB_April_2025.pdf
+2025-05-31 10:22:42,395 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,396 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,396 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,397 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,397 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,397 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,399 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,399 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,518 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-05-31 10:22:42,518 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:22:42,518 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-05-31 10:22:42,518 - INFO - Processing barclays redacted.pdf
+2025-05-31 10:22:42,518 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-31 10:22:42,520 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,521 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,521 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,521 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,522 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,522 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,522 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,522 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:42,523 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:22:43,295 - INFO - Extracted 58 transactions from barclays redacted.pdf
+2025-05-31 10:22:43,433 - INFO - Saved 53 transactions to output/consolidated_statements_2025-05-31.xlsx
+2025-05-31 10:28:34,138 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 10:28:34,138 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 10:28:34,139 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,139 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,140 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,140 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,220 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,220 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,220 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,220 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,221 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-05-31 10:28:34,221 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:28:34,221 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-31 10:28:34,221 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 10:28:34,222 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,222 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,223 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,223 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,304 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,304 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,304 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,304 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,304 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-05-31 10:28:34,305 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:28:34,305 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-31 10:28:34,305 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 10:28:34,306 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,306 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,306 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,307 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,468 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,468 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,468 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,468 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,468 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-05-31 10:28:34,468 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:28:34,468 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-31 10:28:34,468 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 10:28:34,469 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,470 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,470 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,470 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,638 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,638 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,638 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,638 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,638 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-05-31 10:28:34,639 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:28:34,639 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-31 10:28:34,639 - INFO - Processing TSB Redacted 2.pdf
+2025-05-31 10:28:34,640 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,640 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,640 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,641 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,641 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,641 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,746 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,747 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,747 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,747 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,747 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,747 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,747 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-05-31 10:28:34,747 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:28:34,747 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-05-31 10:28:34,747 - INFO - Processing TSB_April_2025.pdf
+2025-05-31 10:28:34,748 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,749 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,749 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,749 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,750 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,750 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,751 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,752 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,875 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-05-31 10:28:34,875 - WARNING - No handler yet for bank: Unknown
+2025-05-31 10:28:34,875 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-05-31 10:28:34,875 - INFO - Processing barclays redacted.pdf
+2025-05-31 10:28:34,875 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-31 10:28:34,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,879 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,879 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,880 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:34,880 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,682 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,682 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,682 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,682 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,682 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,682 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 10:28:35,683 - INFO - Extracted 27 transactions from barclays redacted.pdf
+2025-05-31 10:28:35,768 - INFO - Saved 23 transactions to output/consolidated_statements_2025-05-31.xlsx
+2025-05-31 14:01:49,761 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 14:01:49,761 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 14:01:49,762 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,763 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,763 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,763 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,844 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,844 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,844 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,845 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,845 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-05-31 14:01:49,845 - WARNING - No handler yet for bank: Unknown
+2025-05-31 14:01:49,845 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-31 14:01:49,845 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 14:01:49,846 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,846 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,847 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,847 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,926 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,927 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,927 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,927 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,927 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-05-31 14:01:49,927 - WARNING - No handler yet for bank: Unknown
+2025-05-31 14:01:49,927 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-31 14:01:49,927 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 14:01:49,928 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,928 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,929 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:49,929 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,087 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,087 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,088 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,088 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,088 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-05-31 14:01:50,088 - WARNING - No handler yet for bank: Unknown
+2025-05-31 14:01:50,088 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-31 14:01:50,088 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 14:01:50,089 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,089 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,089 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,090 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,257 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,257 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,258 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,258 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,258 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-05-31 14:01:50,258 - WARNING - No handler yet for bank: Unknown
+2025-05-31 14:01:50,258 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-31 14:01:50,258 - INFO - Processing TSB Redacted 2.pdf
+2025-05-31 14:01:50,259 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,259 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,259 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,366 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,367 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,367 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-05-31 14:01:50,367 - WARNING - No handler yet for bank: Unknown
+2025-05-31 14:01:50,367 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-05-31 14:01:50,367 - INFO - Processing TSB_April_2025.pdf
+2025-05-31 14:01:50,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,369 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,492 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,492 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,493 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,493 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,493 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,493 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,493 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,493 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,493 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-05-31 14:01:50,493 - WARNING - No handler yet for bank: Unknown
+2025-05-31 14:01:50,493 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-05-31 14:01:50,493 - INFO - Processing barclays redacted.pdf
+2025-05-31 14:01:50,493 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-31 14:01:50,495 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,495 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,496 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,496 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,496 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,497 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,497 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,497 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:50,498 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,312 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 14:01:51,316 - INFO - Extracted 58 transactions from barclays redacted.pdf
+2025-05-31 14:01:51,396 - INFO - Saved 53 transactions to output/consolidated_statements_2025-05-31.xlsx
+2025-05-31 16:07:44,610 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 16:07:44,610 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 16:07:44,611 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,611 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,612 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,612 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,670 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,671 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,671 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,671 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,671 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-05-31 16:07:44,671 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:07:44,671 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-31 16:07:44,671 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 16:07:44,671 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,672 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,672 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,672 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,731 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,731 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,731 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,731 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,731 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-05-31 16:07:44,731 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:07:44,731 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-31 16:07:44,731 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 16:07:44,732 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,732 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,732 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,732 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,851 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,852 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,852 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,852 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,852 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-05-31 16:07:44,852 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:07:44,852 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-31 16:07:44,852 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 16:07:44,853 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,853 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,853 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,853 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,979 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,980 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,980 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,980 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,980 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-05-31 16:07:44,980 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:07:44,980 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-31 16:07:44,980 - INFO - Processing TSB Redacted 2.pdf
+2025-05-31 16:07:44,981 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,981 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,981 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,981 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,982 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:44,982 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,064 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,064 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,064 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,064 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,064 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,064 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,064 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-05-31 16:07:45,064 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:07:45,064 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-05-31 16:07:45,064 - INFO - Processing TSB_April_2025.pdf
+2025-05-31 16:07:45,066 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,066 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,066 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,066 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,067 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,067 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,068 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,068 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,160 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,161 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,161 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,161 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,161 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,161 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,161 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,161 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,161 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-05-31 16:07:45,161 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:07:45,161 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-05-31 16:07:45,161 - INFO - Processing barclays redacted.pdf
+2025-05-31 16:07:45,161 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-31 16:07:45,162 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,163 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,163 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,163 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,163 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,164 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,164 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,164 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,164 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:07:45,769 - INFO - Extracted 58 transactions from barclays redacted.pdf
+2025-05-31 16:07:45,830 - INFO - Saved 57 transactions to output/barclays_extracted_data_2025-05-31.xlsx
+2025-05-31 16:15:31,719 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 16:15:31,719 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 16:15:31,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,722 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,788 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,789 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,789 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,789 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,789 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-05-31 16:15:31,789 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:15:31,789 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-31 16:15:31,789 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 16:15:31,790 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,791 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,791 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,791 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,859 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,859 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,859 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,859 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,859 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-05-31 16:15:31,859 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:15:31,859 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-31 16:15:31,859 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 16:15:31,861 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,861 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,861 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:31,861 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,003 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,003 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,003 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,003 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,003 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-05-31 16:15:32,003 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:15:32,004 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-31 16:15:32,004 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 16:15:32,004 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,005 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,005 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,005 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,147 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,147 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,147 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,147 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,147 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-05-31 16:15:32,147 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:15:32,147 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-31 16:15:32,147 - INFO - Processing TSB Redacted 2.pdf
+2025-05-31 16:15:32,148 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,148 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,149 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,149 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,149 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,149 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,239 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,239 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,239 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,239 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,239 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,239 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,240 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-05-31 16:15:32,240 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:15:32,240 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-05-31 16:15:32,240 - INFO - Processing TSB_April_2025.pdf
+2025-05-31 16:15:32,241 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,241 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,241 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,241 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,241 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,242 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,243 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,243 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,375 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,376 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,376 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-05-31 16:15:32,376 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:15:32,376 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-05-31 16:15:32,376 - INFO - Processing barclays redacted.pdf
+2025-05-31 16:15:32,376 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-31 16:15:32,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,377 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:32,379 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,041 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,042 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:15:33,043 - INFO - Extracted 58 transactions from barclays redacted.pdf
+2025-05-31 16:15:33,109 - INFO - Saved 58 transactions to output/barclay_bank_extracted_statement_2025-05-31.xlsx
+2025-05-31 16:30:53,494 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 16:30:53,494 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 16:30:53,495 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,495 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,495 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,495 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,555 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,555 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,556 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,556 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,556 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-05-31 16:30:53,556 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:30:53,556 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-31 16:30:53,556 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 16:30:53,556 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,616 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,616 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,617 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,617 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,617 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-05-31 16:30:53,617 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:30:53,617 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-31 16:30:53,617 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 16:30:53,617 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,618 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,618 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,618 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,740 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,741 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,741 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,741 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,741 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-05-31 16:30:53,741 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:30:53,741 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-31 16:30:53,741 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 16:30:53,741 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,742 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,742 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,742 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,873 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-05-31 16:30:53,873 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:30:53,873 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-31 16:30:53,873 - INFO - Processing TSB Redacted 2.pdf
+2025-05-31 16:30:53,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,958 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,959 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,959 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,959 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,959 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,959 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,959 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-05-31 16:30:53,959 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:30:53,959 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-05-31 16:30:53,959 - INFO - Processing TSB_April_2025.pdf
+2025-05-31 16:30:53,960 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,960 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,960 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,960 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,962 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:53,962 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,055 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,055 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,055 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,055 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-05-31 16:30:54,055 - WARNING - No handler yet for bank: Unknown
+2025-05-31 16:30:54,055 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-05-31 16:30:54,055 - INFO - Processing barclays redacted.pdf
+2025-05-31 16:30:54,055 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-31 16:30:54,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,057 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,681 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 16:30:54,682 - INFO - Extracted 58 transactions from barclays redacted.pdf
+2025-05-31 16:30:54,745 - INFO - Saved 58 transactions to output/consolidated_barclay_statements_2025-05-31.xlsx
+2025-05-31 18:11:28,552 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 18:11:28,552 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 18:11:28,553 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,553 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,553 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,554 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,621 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,621 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,622 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,622 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,622 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-05-31 18:11:28,622 - WARNING - No handler yet for bank: Unknown
+2025-05-31 18:11:28,622 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-05-31 18:11:28,622 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 18:11:28,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,623 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,624 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,688 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,688 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,688 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,688 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,688 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-05-31 18:11:28,689 - WARNING - No handler yet for bank: Unknown
+2025-05-31 18:11:28,689 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-05-31 18:11:28,689 - INFO - Processing Nationwide redacted 1.pdf
+2025-05-31 18:11:28,690 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,690 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,691 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,691 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,825 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-05-31 18:11:28,825 - WARNING - No handler yet for bank: Unknown
+2025-05-31 18:11:28,825 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-05-31 18:11:28,825 - INFO - Processing Nationwide redacted 2.pdf
+2025-05-31 18:11:28,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,961 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-05-31 18:11:28,961 - WARNING - No handler yet for bank: Unknown
+2025-05-31 18:11:28,961 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-05-31 18:11:28,961 - INFO - Processing TSB Redacted 2.pdf
+2025-05-31 18:11:28,962 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,963 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,963 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,963 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,963 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:28,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,048 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-05-31 18:11:29,048 - WARNING - No handler yet for bank: Unknown
+2025-05-31 18:11:29,048 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-05-31 18:11:29,048 - INFO - Processing TSB_April_2025.pdf
+2025-05-31 18:11:29,049 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,050 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,050 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,050 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,051 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,051 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,052 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,052 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,154 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,154 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,154 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,155 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,155 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,155 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,155 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,155 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,155 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-05-31 18:11:29,155 - WARNING - No handler yet for bank: Unknown
+2025-05-31 18:11:29,155 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-05-31 18:11:29,155 - INFO - Processing barclays redacted.pdf
+2025-05-31 18:11:29,155 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-05-31 18:11:29,156 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,157 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,157 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,157 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,157 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,158 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,158 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,158 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,158 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,813 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,813 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:11:29,815 - INFO - Extracted 58 transactions from barclays redacted.pdf
+2025-05-31 18:11:29,885 - INFO - Saved 58 transactions to output/consolidated_barclay_statements_2025-05-31.xlsx
+2025-06-01 16:40:19,629 - INFO - Input directory: bank_statements, Output directory: output
+2025-06-01 16:40:19,630 - INFO - Processing Bunmite 1 redacted.pdf
+2025-06-01 16:40:19,633 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,634 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,634 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,635 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,721 - INFO - Detected bank: Unknown for Bunmite 1 redacted.pdf
+2025-06-01 16:40:19,721 - WARNING - No handler yet for bank: Unknown
+2025-06-01 16:40:19,721 - INFO - Extracted 0 transactions from Bunmite 1 redacted.pdf
+2025-06-01 16:40:19,721 - INFO - Processing Bunmite 2 redacted.pdf
+2025-06-01 16:40:19,723 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,723 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,724 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,724 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,801 - INFO - Detected bank: Unknown for Bunmite 2 redacted.pdf
+2025-06-01 16:40:19,801 - WARNING - No handler yet for bank: Unknown
+2025-06-01 16:40:19,801 - INFO - Extracted 0 transactions from Bunmite 2 redacted.pdf
+2025-06-01 16:40:19,801 - INFO - Processing Nationwide redacted 1.pdf
+2025-06-01 16:40:19,803 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,804 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,804 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,805 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,960 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,961 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,961 - INFO - Detected bank: Unknown for Nationwide redacted 1.pdf
+2025-06-01 16:40:19,961 - WARNING - No handler yet for bank: Unknown
+2025-06-01 16:40:19,961 - INFO - Extracted 0 transactions from Nationwide redacted 1.pdf
+2025-06-01 16:40:19,961 - INFO - Processing Nationwide redacted 2.pdf
+2025-06-01 16:40:19,963 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:19,965 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,129 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,129 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,129 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,129 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,129 - INFO - Detected bank: Unknown for Nationwide redacted 2.pdf
+2025-06-01 16:40:20,129 - WARNING - No handler yet for bank: Unknown
+2025-06-01 16:40:20,129 - INFO - Extracted 0 transactions from Nationwide redacted 2.pdf
+2025-06-01 16:40:20,129 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 16:40:20,136 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,136 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,137 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,137 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,137 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,138 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,243 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,243 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,243 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,243 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,243 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,244 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,244 - INFO - Detected bank: Unknown for TSB Redacted 2.pdf
+2025-06-01 16:40:20,244 - WARNING - No handler yet for bank: Unknown
+2025-06-01 16:40:20,244 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-06-01 16:40:20,244 - INFO - Processing TSB_April_2025.pdf
+2025-06-01 16:40:20,245 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,246 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,246 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,247 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,247 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,247 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,248 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,249 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,368 - INFO - Detected bank: Unknown for TSB_April_2025.pdf
+2025-06-01 16:40:20,368 - WARNING - No handler yet for bank: Unknown
+2025-06-01 16:40:20,368 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-06-01 16:40:20,368 - INFO - Processing barclays redacted.pdf
+2025-06-01 16:40:20,368 - INFO - Detected bank: Barclays for barclays redacted.pdf
+2025-06-01 16:40:20,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,370 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,371 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:20,372 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,146 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,146 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,146 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,146 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,146 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,146 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,146 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,146 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,147 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:40:21,148 - INFO - Extracted 58 transactions from barclays redacted.pdf
+2025-06-01 16:40:21,296 - INFO - Saved 58 transactions to output/consolidated_barclay_statements_2025-06-01.xlsx
+2025-06-01 16:44:10,879 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 16:44:10,879 - ERROR - Failed to extract TSB transactions: [Errno 2] No such file or directory: 'TSB Redacted 2.pdf'
+2025-06-01 16:44:10,879 - WARNING - No TSB transactions extracted.
+2025-06-01 16:46:50,187 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 16:46:50,188 - ERROR - Failed to extract TSB transactions: [Errno 2] No such file or directory: 'TSB Redacted 2.pdf'
+2025-06-01 16:46:50,188 - WARNING - No TSB transactions extracted.
+2025-06-01 16:49:27,519 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 16:49:27,521 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:27,522 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:27,522 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:27,523 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:27,523 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:27,523 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:28,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:28,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:28,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:28,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:28,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:28,096 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:49:28,096 - WARNING - No TSB transactions extracted.
+2025-06-01 16:51:24,165 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 16:51:24,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,169 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,169 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,170 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,170 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,964 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 16:51:24,965 - WARNING - No TSB transactions extracted.
+2025-06-01 18:00:29,919 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 18:00:29,921 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:29,921 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:29,921 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:29,922 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:29,922 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:29,922 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:30,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:30,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:30,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:30,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:30,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:30,387 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:00:30,388 - WARNING - No TSB transactions extracted.
+2025-06-01 18:03:20,953 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 18:03:20,954 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:20,955 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:20,955 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:20,955 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:20,956 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:20,956 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:21,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:21,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:21,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:21,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:21,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:21,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:03:21,433 - WARNING - No TSB transactions extracted.
+2025-06-01 18:13:56,194 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 18:13:56,195 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,196 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,196 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,196 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,197 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,197 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,625 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:13:56,625 - WARNING - No TSB transactions extracted.
+2025-06-01 18:17:26,757 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 18:17:26,758 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:26,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:26,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:26,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:26,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:26,760 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:26,837 - INFO - Extracted tables on page 1: [[['', None], [None, '']]]
+2025-06-01 18:17:27,956 - INFO - OCR text extracted for page 1:
+Balances of AER% Gross p.a.% Net p.a.% Balances of AER% Gross p.a.% Net p.a.%
+
+£1.00+ 0.00 0.00 0.00 £1,501.00+ 0.00 0.00 0.00
+
+Amount of Arranged Overdraft and Interest Payable Amount of Unarranged Overdraft and Interest Payable
+
+£0.00+ 2.84% per month (39.90% EAR* variable) £0.00+ 2.84% per month (39.90% EAR*® variable)
+
+* EAR is the Equivalent Annual Rate. This is the actual annual interest rate of an Overdraft. It does not take into account other fees and charges.
+
+AER is the Annual Equivalent Rate and illustrates what the interest rate would be if interest was paid and compounded once each year. Gross is the contractual rate of interest
+payable before the deduction of income tax at the rate specified by law. Net is the rate of interest which would be payable after allowing for deduction of income tax at the specified
+rate.
+
+We will give you at least 14 days notice before we take any Overdraft fees or interest out of your account. Interest rates and fees are detailed as at the date of this statement.
+Fees Explained
+
+Other services - These are fees for other services you have asked for. You can find more details in our Banking Charges guide or at www.tsb.co.uk
+
+The monthly cap on unarranged overdraft charges for the Classic Plus Account is £30. Further details can be found online at tsb.co.uk/overdrafts
+
+Fees and interest rates may have changed during the period covered by this summary. For details please see your regular statements.
+
+TSB Bank plc Registered Office: Henry Duncan House, 120 George Street, Edinburgh EH2 4LH. Registered in Scotland No. SC95237. Authorised by the Prudential Regulation Authority and regulated by the
+Financial Conduct Authority and the Prudential Regulation Authority (Registration No 191240).
+
+TSB Bank plc is covered by the Financial Services Compensation Scheme and the Financial Ombudsman Service. (Please note that due to the schemes' eligibility criteria not all TSB business customers will be
+covered by these schemes). Page 1 of 6
+
+2025-06-01 18:17:28,101 - INFO - Extracted tables on page 2: []
+2025-06-01 18:17:29,296 - INFO - OCR text extracted for page 2:
+. . ier fi f le by helpi budget or finding th
+eared or been paid on fsb.co.uk o: by asking at any TSB branch best deals on products and services that suit you, as well as
+or call 03459 758 758 (8am-9pm Mon-Fri; 9am-5pm Sat-Sun). . P . your
+offering new ways to pay. Find out more at
+. tsb.co.uk/help-and-su ‘open-bankin
+Checking your statement k/help pport/ope o/
+Please read through the entries on your statement. If you think . .
+_ ; Making a complaint
+something is wrong, please contact us straight away on the .
+. If you have a problem with your account, please let us know and try
+telephone number on the front of your statement. The earlier you yo . ; ; .
+to resolve it with us first. If you don't, you won't be able to complain
+contact us, the more we may be able to do. For example, we may . : aa \ j
+. to the Financial Ombudsman Service if you're not happy with how
+not be able to refund you if you tell us more than 13 months after . : .
+. ; : we handled your complaint or the result. We can provide details of
+the date of the payment. Take care when storing or disposing of
+. . how to contact the Ombudsman.
+information about your accounts.
+Important information about compensation arrangements ___
+Deposits held with us are covered by the Financial Services ; aC COUNT
+Compensation Scheme (FSCS). We will provide you with an SCS SARANTEE
+information sheet and exclusions list every year.
+For further information about the compensation provided by the Protected
+FSCS, refer to the FSCS website at www.FSCS.org.uk
+Please contact us if you'd like this in Braille or large print.
+If you have a hearing or speech impairment and would prefer to use Textphone, please feel free to contact us on 03458 353 843 (or 01179 743664 for offshore customers) or via text relay. Calls may be monitored
+or recorded in case we need to check we have carried out your instructions correctly and to help improve our quality of service.
+TSB Bank plc Registered Office: Henry Duncan House,120 George Street, Edinburgh EH2 4LH. Registered in Scotland No. SC95237. Telephone 0131 225 4555. Authorised by the Prudential Regulation Authority
+and regulated by the Financial Conduct Authority and the Prudential Regulation Authority under registration number 191240.
+TSB Bank plc is covered by the Financial Services Compensation Scheme and the Financial Ombudsman Service. (Please note that due to the schemes' eligibility criteria not all TSB business customers will be
+covered by these schemes).
+
+2025-06-01 18:17:29,377 - INFO - Extracted tables on page 3: [[['Paymenttype', 'Details', 'MoneyOut(£)', 'MoneyIn(£)']]]
+2025-06-01 18:17:30,641 - INFO - OCR text extracted for page 3:
+PDF Redactor Free 'S By
+Statement number: 80 ae
+Classic Plus Account
+Your Transactions
+Date Payment type Details == =~ [Money Out(£) [Money In(£) [Balance (£)
+
+02 Jul 24 STATEMENT OPENING BALANCE 0.55
+03 Jul 24 FASTER PAYMENT JOGUNYINKA IM 430.00 430.55
+AIWO
+03 Jul 24 FASTER PAYMENT |teezz Teezz 400.00 30.55
+03 Jul 24 FASTER PAYMENT T Ayeni TEE 350.00 380.55
+03 Jul 24 FASTER PAYMENT {debt 46639 70.00 310.55
+03 Jul 24 FASTER PAYMENT |musbau amoo MSB 100.00 210.55
+07 Jul 24 FASTER PAYMENT |kuramoh properties limited 20.00 190.55
+Save
+08 Jul 24 FASTER PAYMENT |T Ahmed-Amoo TEE 300.00 490.55
+08 Jul 24 FASTER PAYMENT |idowu ogunyinka 300.00 190.55
+Idowu
+08 Jul 24 FASTER PAYMENT |QRA TRAVELS 600.00 409.45 OD
+icket
+08 Jul 24 FASTER PAYMENT |idowu ogunyinka 100.00 509.45 OD
+Idowu
+09 Jul 24 DIRECT DEBIT H3G REFERENCE: 13.88 523.33 OD
+978111767701000086
+09 Jul 24 FASTER PAYMENT |idowu ogunyinka 100.00 623.33 OD
+Idowu
+Ti Jul 24 DIRECT CREDIT |SLC LOANS REFERENCE: 1,295.40 672.07
+CCG5343877
+Ti Jul 24 FASTER PAYMENT |TAIWO AHMED AMOO 300.00 372.07
+EE
+Ti Jul 24 CASH ESCO SOUTH OC EXP 250.00 122.07
+ITHDRAWAL HURROCK  GB2024-07-11
+Ti Jul 24 CASH ESCO SOUTH OC EXP 100.00 22.07
+ITHDRAWAL HURROCK  GB2024-07-11
+12 Jul 24 DIRECT DEBIT EE LIMITED REFERENCE: 63.50 41.43 OD
+(Q50205641534956568
+14 Jul 24 FASTER PAYMENT |Taiwo Ali done 20.00 61.43 OD
+15 Jul 24 K MAXX CD 3947 32.98 94.41 OD
+15 Jul 24 FASTER PAYMENT JOGUNYINKA IM 110.00 15.59
+AIWO
+16 Jul 24 BP NEWHAM WAY F/STN CD 3947 29.65 14.06 OD
+16 Jul 24 FASTER PAYMENT (zeenat ahmed amoo 10.00 24.06 OD
+Daughter .
+19 Jul 24 COSTCO WHOLESALE Ni01 CD 4.86 28.92 OD
+3947
+Continued on next page
+TSB Bank plc Registered Office: Henry Duncan House, 120 George Street, Edinburgh EH2 4LH. Registered in Scotland No. SC95237. Authorised by the Prudential Regulation Authority and regulated by the
+Financial Conduct Authority and the Prudential Regulation Authority (Registration No 191240).
+TSB Bank plc is covered by the Financial Services Compensation Scheme and the Financial Ombudsman Service. (Please note that due to the schemes' eligibility criteria not all TSB business customers will be
+covered by these schemes). Page 30f6
+
+2025-06-01 18:17:30,702 - INFO - Extracted tables on page 4: [[['FASTERPAYMENT\nFASTERPAYMENT\nFASTERPAYMENT\nFASTERPAYMENT\nFASTERPAYMENT\nFASTERPAYMENT\nFASTERPAYMENT\nTRANSFER\nFASTERPAYMENT\nFASTERPAYMENT\nTRANSFER\nDIRECTDEBIT\nSERVICE\nCHARGES', 'KAMOO\nKAFNG\nTAhmed-Amoo TEE\nTaiwoAhmedAmoo\nSAVINGS\nSulymanOlajideSentfromMonzo\nMPEstatesLTD\nCJG926\nTAIWOAHMEDAMOO\n00844668\nteezz Teezz\nFROMEasySaver774927-01937268\nkuramohpropertieslimited\nSave\nTAhmed-Amoo TEE\nFROMEasySaver774927-01937268\nSANTANDERMORTGAGE\nREFERENCE:043135951\nDEBITINTERESTARRANGEDO/D\nSTATEMENTCLOSINGBALANCE', '150.00\n20.00\n1,050.00\n1,200.00\n6,500.00\n1,599.81\n4.53\n13,039.21', '200.00\n1,050.00\n6,500.00\n1,400.00\n300.00\n200.00\n12,135.40']]]
+2025-06-01 18:17:30,744 - INFO - Extracted tables on page 5: []
+2025-06-01 18:17:30,785 - INFO - Extracted tables on page 6: []
+2025-06-01 18:17:30,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:30,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:30,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:30,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:30,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:30,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 18:17:30,786 - INFO - Raw transactions extracted: 10
+2025-06-01 18:17:30,864 - INFO - Saved 10 transactions to output/tsb_redacted_001.xlsx

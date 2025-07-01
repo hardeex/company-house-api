@@ -1,0 +1,176 @@
+2025-06-01 05:55:39,689 - INFO - Input directory: bank_statements, Output directory: output
+2025-06-01 05:55:39,689 - INFO - Processing Bunmite 1 redacted.pdf
+2025-06-01 05:55:39,689 - INFO - Skipping non-TSB file: Bunmite 1 redacted.pdf
+2025-06-01 05:55:39,689 - INFO - Processing Bunmite 2 redacted.pdf
+2025-06-01 05:55:39,689 - INFO - Skipping non-TSB file: Bunmite 2 redacted.pdf
+2025-06-01 05:55:39,689 - INFO - Processing Nationwide redacted 1.pdf
+2025-06-01 05:55:39,689 - INFO - Skipping non-TSB file: Nationwide redacted 1.pdf
+2025-06-01 05:55:39,689 - INFO - Processing Nationwide redacted 2.pdf
+2025-06-01 05:55:39,689 - INFO - Skipping non-TSB file: Nationwide redacted 2.pdf
+2025-06-01 05:55:39,689 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 05:55:39,691 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:39,692 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:39,692 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:39,692 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:39,693 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:39,693 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,260 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,260 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-06-01 05:55:40,260 - INFO - Processing TSB_April_2025.pdf
+2025-06-01 05:55:40,261 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,262 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,262 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,262 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,263 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,263 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,263 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:40,264 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:55:43,898 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-06-01 05:55:43,899 - INFO - Processing barclays redacted.pdf
+2025-06-01 05:55:43,899 - INFO - Skipping non-TSB file: barclays redacted.pdf
+2025-06-01 05:55:43,899 - WARNING - No transactions to save.
+2025-06-01 05:56:40,526 - INFO - Input directory: bank_statements, Output directory: output
+2025-06-01 05:56:40,526 - INFO - Processing Bunmite 1 redacted.pdf
+2025-06-01 05:56:40,526 - INFO - Skipping non-TSB file: Bunmite 1 redacted.pdf
+2025-06-01 05:56:40,526 - INFO - Processing Bunmite 2 redacted.pdf
+2025-06-01 05:56:40,526 - INFO - Skipping non-TSB file: Bunmite 2 redacted.pdf
+2025-06-01 05:56:40,526 - INFO - Processing Nationwide redacted 1.pdf
+2025-06-01 05:56:40,526 - INFO - Skipping non-TSB file: Nationwide redacted 1.pdf
+2025-06-01 05:56:40,527 - INFO - Processing Nationwide redacted 2.pdf
+2025-06-01 05:56:40,527 - INFO - Skipping non-TSB file: Nationwide redacted 2.pdf
+2025-06-01 05:56:40,527 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 05:56:40,528 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:40,528 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:40,529 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:40,529 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:40,529 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:40,530 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,097 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,097 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,098 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-06-01 05:56:41,098 - INFO - Processing TSB_April_2025.pdf
+2025-06-01 05:56:41,099 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,100 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,100 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,100 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,100 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,101 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,101 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:41,101 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,786 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,786 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,786 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,786 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,787 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,787 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,787 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,787 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:56:44,787 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-06-01 05:56:44,787 - INFO - Processing barclays redacted.pdf
+2025-06-01 05:56:44,787 - INFO - Skipping non-TSB file: barclays redacted.pdf
+2025-06-01 05:56:44,787 - WARNING - No transactions to save.
+2025-06-01 05:57:42,659 - INFO - Input directory: bank_statements, Output directory: output
+2025-06-01 05:57:42,660 - INFO - Processing Bunmite 1 redacted.pdf
+2025-06-01 05:57:42,660 - INFO - Skipping non-TSB file: Bunmite 1 redacted.pdf
+2025-06-01 05:57:42,660 - INFO - Processing Bunmite 2 redacted.pdf
+2025-06-01 05:57:42,660 - INFO - Skipping non-TSB file: Bunmite 2 redacted.pdf
+2025-06-01 05:57:42,660 - INFO - Processing Nationwide redacted 1.pdf
+2025-06-01 05:57:42,660 - INFO - Skipping non-TSB file: Nationwide redacted 1.pdf
+2025-06-01 05:57:42,660 - INFO - Processing Nationwide redacted 2.pdf
+2025-06-01 05:57:42,660 - INFO - Skipping non-TSB file: Nationwide redacted 2.pdf
+2025-06-01 05:57:42,660 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 05:57:42,661 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:42,662 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:42,662 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:42,663 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:42,663 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:42,663 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,232 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,232 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-06-01 05:57:43,232 - INFO - Processing TSB_April_2025.pdf
+2025-06-01 05:57:43,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:43,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,800 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,800 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,800 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,800 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,801 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 05:57:46,801 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-06-01 05:57:46,801 - INFO - Processing barclays redacted.pdf
+2025-06-01 05:57:46,801 - INFO - Skipping non-TSB file: barclays redacted.pdf
+2025-06-01 05:57:46,801 - WARNING - No transactions to save.
+2025-06-01 06:09:08,658 - INFO - Input directory: bank_statements, Output directory: output
+2025-06-01 06:09:08,658 - INFO - Processing Bunmite 1 redacted.pdf
+2025-06-01 06:09:08,658 - INFO - Skipping non-TSB file: Bunmite 1 redacted.pdf
+2025-06-01 06:09:08,658 - INFO - Processing Bunmite 2 redacted.pdf
+2025-06-01 06:09:08,658 - INFO - Skipping non-TSB file: Bunmite 2 redacted.pdf
+2025-06-01 06:09:08,658 - INFO - Processing Nationwide redacted 1.pdf
+2025-06-01 06:09:08,658 - INFO - Skipping non-TSB file: Nationwide redacted 1.pdf
+2025-06-01 06:09:08,658 - INFO - Processing Nationwide redacted 2.pdf
+2025-06-01 06:09:08,658 - INFO - Skipping non-TSB file: Nationwide redacted 2.pdf
+2025-06-01 06:09:08,658 - INFO - Processing TSB Redacted 2.pdf
+2025-06-01 06:09:08,660 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,660 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,660 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,661 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,661 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,661 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,857 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,858 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,858 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,858 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,858 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,858 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,858 - INFO - Extracted 0 transactions from TSB Redacted 2.pdf
+2025-06-01 06:09:08,858 - INFO - Processing TSB_April_2025.pdf
+2025-06-01 06:09:08,859 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,860 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,860 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,860 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,860 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,861 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,861 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:08,861 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-01 06:09:09,208 - INFO - Extracted 0 transactions from TSB_April_2025.pdf
+2025-06-01 06:09:09,208 - INFO - Processing barclays redacted.pdf
+2025-06-01 06:09:09,209 - INFO - Skipping non-TSB file: barclays redacted.pdf
+2025-06-01 06:09:09,209 - WARNING - No transactions to save.

@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/ubuntu/Desktop/coding/gigs/python/company_house/venv
+set -gx VIRTUAL_ENV /home/ubuntu/Desktop/coding/gigs/python-laravel/company_house/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

@@ -1,0 +1,27 @@
+2025-05-31 18:20:17,784 - INFO - Input directory: bank_statements, Output directory: output
+2025-05-31 18:20:17,784 - INFO - Processing Bunmite 1 redacted.pdf
+2025-05-31 18:20:17,786 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:17,786 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:17,787 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:17,787 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:19,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:19,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:19,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:19,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:19,212 - INFO - Extracted 12 transactions from Bunmite 1 redacted.pdf
+2025-05-31 18:20:19,212 - INFO - Processing Bunmite 2 redacted.pdf
+2025-05-31 18:20:19,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:19,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:19,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:19,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:20,536 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:20,536 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:20,536 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:20,536 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-31 18:20:20,537 - INFO - Extracted 13 transactions from Bunmite 2 redacted.pdf
+2025-05-31 18:20:20,537 - INFO - Skipping file: Nationwide redacted 1.pdf
+2025-05-31 18:20:20,537 - INFO - Skipping file: Nationwide redacted 2.pdf
+2025-05-31 18:20:20,537 - INFO - Skipping file: TSB Redacted 2.pdf
+2025-05-31 18:20:20,537 - INFO - Skipping file: TSB_April_2025.pdf
+2025-05-31 18:20:20,537 - INFO - Skipping file: barclays redacted.pdf
+2025-05-31 18:20:20,600 - INFO - Saved 25 transactions to output/virginmoney_statements_2025-05-31.xlsx
